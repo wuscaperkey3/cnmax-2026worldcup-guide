@@ -1,2 +1,14 @@
 # cnmax-2026worldcup-guide
-HTML page archive and documentation
+
+公开页面文件归档
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
